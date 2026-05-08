@@ -12,7 +12,7 @@ Horário: 09h:10 – 12h:30
 
 Contato: izadorasccs@gmail.com
 
-Sala: Laboratório de Geoprocessamento e Sala 03 (Prédio da Matemática e Física - Pavilho da Matemática)
+Local das Aulas: Laboratório de Geoprocessamento e Sala 03 (Prédio da Matemática e Física - Pavilhão da Matemática)
 
 ## Repositório para arquivos das aulas.
 
@@ -20,5 +20,7 @@ Sala: Laboratório de Geoprocessamento e Sala 03 (Prédio da Matemática e Físi
 
 - Aula 1: [Slides](https://canva.link/71esq9lmvydhmsj) 
 - Aula 2: [Slides](https://canva.link/fsm5qkik03n8rrl)
-- Aula 3: [Slides](https://canva.link/cdy49jk2bctqenz)
-- Prática 01: [Link](https://drive.google.com/drive/folders/1BFP1KcGXcvGg5XFh--fhkf_8gFpXFJtA?usp=sharing)
+- Aula 3 e 4: [Slides](https://canva.link/cdy49jk2bctqenz)
+  - Prática 01: [Link](https://drive.google.com/drive/folders/1BFP1KcGXcvGg5XFh--fhkf_8gFpXFJtA?usp=sharing)
+- Aula 5: [Slides]()
+  - Prática 02: [Link](https://drive.google.com/drive/folders/1PE5AEgyzTNTfWRbHgeLBR1Cbu4HbuSYI?usp=sharing)
