@@ -26,3 +26,5 @@ Local das Aulas: Laboratório de Geoprocessamento e Sala 03 (Prédio da Matemát
   - Prática 02: [Link](https://drive.google.com/drive/folders/1PE5AEgyzTNTfWRbHgeLBR1Cbu4HbuSYI?usp=sharing)
 - Aula 6: [Slides](https://canva.link/jdz2wudxgud9svt)
   - Prática 03: [Link](https://drive.google.com/drive/folders/1D7-Sb-VATrOQGZxD4OEte9PI2Sc2fsus?usp=drive_link)
+- Aula 7: [Slides]()
+  - Prática 04: [Link]() 
