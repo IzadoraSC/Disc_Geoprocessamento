@@ -21,6 +21,6 @@ Local das Aulas: Laboratório de Matemática e Física e Sala 02 (Prédio da Mat
 - Aula 1: [Slides](https://canva.link/71esq9lmvydhmsj) 
 - Aula 2: [Slides](https://canva.link/u7u0lryh0yn8uox)
   - Prática 01: [Link](https://colab.research.google.com/drive/15JqES6fgB4oW-Wm1QDMDs-QBe2FD3j1V?usp=sharing)
-- Aula 3 e 4: [Slides](https://canva.link/cdy49jk2bctqenz)
+- Aula 3 e 4: [Slides](https://canva.link/znro1gptwvrwjz4)
   - Prática 01 (continuação): Link anterior.
-  - Prática 02 - Material: [Link](https://drive.google.com/drive/folders/1ZJgR5lNtBeeUzhaCJxeHAejVI2xkHePs?usp=drive_link)
+  - Prática 02 - Material (02/09/2026): [Link](https://drive.google.com/drive/folders/1ZJgR5lNtBeeUzhaCJxeHAejVI2xkHePs?usp=drive_link) 
