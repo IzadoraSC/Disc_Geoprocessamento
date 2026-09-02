@@ -24,3 +24,5 @@ Local das Aulas: Laboratório de Matemática e Física e Sala 02 (Prédio da Mat
 - Aula 3 e 4: [Slides](https://canva.link/znro1gptwvrwjz4)
   - Prática 01 (continuação): Link anterior.
   - Prática 02 - Material (02/09/2026): [Link](https://drive.google.com/drive/folders/1ZJgR5lNtBeeUzhaCJxeHAejVI2xkHePs?usp=drive_link) 
+- Aula 5: [Slides]()
+  - Projeto Avaliativo (Avaliação Parte 1 - 09/09/2026): [Link]() 
