@@ -28,4 +28,6 @@ Local das Aulas: Laboratório de Matemática e Física e Sala 02 (Prédio da Mat
     - Script Google Colab: [Link](https://colab.research.google.com/drive/1JffQr0mrdm2mUvLsN7XO5_q0kDq8znUI?usp=sharing)
 - Aula 5: [Slides](https://canva.link/iszgp26ri2gaiea)
   - Projeto Avaliativo (Avaliação Parte 1 - 09/09/2026): [Link](https://drive.google.com/drive/folders/1ZJgR5lNtBeeUzhaCJxeHAejVI2xkHePs?usp=drive_link)
-  - Projeto Modelo Completo: [Link](https://drive.google.com/drive/folders/1Gf85ucmjATz0cxR2bkjcBJUxxYzpX8mf?usp=drive_link) 
+  - Projeto Modelo Completo: [Link](https://drive.google.com/drive/folders/1Gf85ucmjATz0cxR2bkjcBJUxxYzpX8mf?usp=drive_link)
+  - Aula 6: [Slides](https://canva.link/hezyq3ifng5j1oj)
+    - Prática 03 - Dados Raster no Python: [Link](https://colab.research.google.com/drive/1jYgpGkmPP2mFuGeAUQ2epnjR7Q5RE3PH?usp=sharing)
