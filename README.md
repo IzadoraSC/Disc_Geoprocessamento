@@ -38,4 +38,7 @@ Local das Aulas: Laboratório de Matemática e Física e Sala 02 (Prédio da Mat
   - Prática Mapa Final (layout de mapas no QGIS).
     - Mapa 1: Localização do Estado do Maranhão
     - Mapa 2: Climas do Estado do Maranhão
-      - [Artigo](https://ojs.ufgd.edu.br/rbclima/article/view/16163) 
+      - [Artigo](https://ojs.ufgd.edu.br/rbclima/article/view/16163)
+- Aula 8 (07/10/2026):
+  - Prática Mapa Final (layout de mapas no QGIS).
+    - Mapa 1: Localização do Estado do Maranhão [Link](https://drive.google.com/drive/folders/1rFUF0RrEKvZdAjadAUjhSCjX_wbTuenT?usp=drive_link)
