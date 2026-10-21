@@ -44,3 +44,6 @@ Local das Aulas: Laboratório de Matemática e Física e Sala 02 (Prédio da Mat
     - Mapa 1: Localização do Estado do Maranhão [Link](https://drive.google.com/drive/folders/1rFUF0RrEKvZdAjadAUjhSCjX_wbTuenT?usp=drive_link)
 - Aula 9 (21/10/2026): [Slide](https://canva.link/hcippskwml6ct3c)
   - Projeto Delimitação de Bacia Hidrográfica: [Link](https://drive.google.com/file/d/1CMwkRy3xg5tDeV0N-91BkooxTGU7JB9p/view?usp=drive_link)   
+- Aula 10 (28/10/2026): [Slide](https://canva.link/hcippskwml6ct3c)
+  - Finalização Projeto Delimitação de Bacia Hidrográfica: [Link]()
+  - Entrega Questões Prática 03 e Mapa Final do Projeto Delimitação de Bacia Hidrográfica
